@@ -43,22 +43,6 @@ Hi there! I'm Yurin, a passionate developer and tech enthusiast. I enjoy explori
 - WireGuard
 - Build U-Boot and Linux Kernel
 
-## 📂 Projects
-
-### [Project Name 1]
-
-**Description:** [Brief Description of the Project]\
-**Tech Stack:** [Technologies Used]\
-**GitHub Repo:** [Link to Repository]
-
-### [Project Name 2]
-
-**Description:** [Brief Description of the Project]\
-**Tech Stack:** [Technologies Used]\
-**GitHub Repo:** [Link to Repository]
-
-[Add more projects as needed]
-
 ## 📊 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiYulin-s&show_icons=true&theme=dracula)
