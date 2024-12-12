@@ -45,10 +45,9 @@ Hi there! I'm Yurin, a passionate developer and tech enthusiast. I enjoy explori
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiYulin-s&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiYulin-s&theme=dracula)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LiYulin-s&theme=dracula)
-
+![Yurin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiYulin-s&show_icons=true&theme=dracula)
+![Yurin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LiYulin-s&theme=dracula)
+![WakaTime](https://wakatime.com/share/embeddable/Yurin/858b1a37-ca57-4dfb-ac13-3243c45b736c.svg)
 
 ## 🛠️ Tools I Use
 
