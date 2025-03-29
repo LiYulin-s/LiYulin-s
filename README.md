@@ -4,6 +4,8 @@
 
 Hi there! I'm Yurin, a passionate developer and tech enthusiast. I enjoy exploring new technologies, solving challenging problems, and building meaningful projects.
 
+[![wakatime](https://wakatime.com/badge/user/06081d4f-14d6-4660-b1eb-445d8791e389.svg)](https://wakatime.com/@06081d4f-14d6-4660-b1eb-445d8791e389)
+
 - 🔭 Currently working on: Asio, Embedded Systems, and Android Development
 - 🌱 Learning: Asio, Kotlin, ESP-IDF, and Jetpack Compose
 - 💬 Ask me about: Qt, MicroPython, Python
